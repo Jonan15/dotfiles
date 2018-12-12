@@ -1,0 +1,2 @@
+" Line numbers
+set nu
