@@ -35,6 +35,7 @@ values."
      markdown
      haskell
      python
+     latex
      ;; ----------------------------------------------------------------
      ;; Example of useful layers you may want to use right away.
      ;; Uncomment some layer names and press <SPC f e R> (Vim style) or
@@ -42,10 +43,9 @@ values."
      ;; ----------------------------------------------------------------
      helm
      ;; auto-completion
-     bettear-defaults
+     ;; bettear-defaults
      emacs-lisp
      git
-     ;; markdown
      org
      ;; (shell :variables
      ;;        shell-default-height 30
