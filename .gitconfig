@@ -1,4 +1,5 @@
 [user]
 	name = Jonas Bamse
+	email = jonan15@student.sdu.dk
 [credential]
 	helper = cache --timeout 9000
