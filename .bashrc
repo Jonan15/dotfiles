@@ -121,3 +121,8 @@ alias python='/usr/bin/python3.6'
 
 # Jolie path
 export JOLIE_HOME="/usr/lib/jolie"
+
+# Java 8?
+alias java8='/usr/lib/jvm/java-8-openjdk-amd64/bin/java'
+alias javac8='/usr/lib/jvm/java-8-openjdk-amd64/bin/javac'
+
